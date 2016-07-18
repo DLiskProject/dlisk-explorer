@@ -1,5 +1,5 @@
 {
-  "name": "DL(i)sk Explorer",
+  "name": "DLisk Explorer",
   "version": "0.0.1",
   "dependencies": {
     "angular": "~1.4.3",
